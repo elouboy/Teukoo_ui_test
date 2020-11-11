@@ -1,16 +1,17 @@
-# redlipschallange
+# Teukoo_ui_test
 
-A new Flutter project.
+Design to code for a part of the UI of Teukoo
 
-## Getting Started
+### Screenshot
 
-This project is a starting point for a Flutter application.
+![camera](https://user-images.githubusercontent.com/23113767/98771668-465e4c00-23e5-11eb-8e05-32ae242dd9b6.png)
+Camera
 
-A few resources to get you started if this is your first Flutter project:
+![video_full_view](https://user-images.githubusercontent.com/23113767/98771741-6beb5580-23e5-11eb-931e-1bde14e5a3fb.png)
+full video view
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![video_full_view_1](https://user-images.githubusercontent.com/23113767/98771716-5f66fd00-23e5-11eb-93e3-afd869176e71.png)
+full video view + gesture detector
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![video](https://user-images.githubusercontent.com/23113767/98771756-74439080-23e5-11eb-96c0-c19d784fd9a3.png)
+little cideo screen
