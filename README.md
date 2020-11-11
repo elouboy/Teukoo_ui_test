@@ -14,4 +14,4 @@ full video view
 full video view + gesture detector
 
 ![video](https://user-images.githubusercontent.com/23113767/98771756-74439080-23e5-11eb-96c0-c19d784fd9a3.png)
-little cideo screen
+little video screen
